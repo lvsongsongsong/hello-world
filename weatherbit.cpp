@@ -22,7 +22,7 @@
 
 using namespace pxt;
 
-namespace weatherbit {
+namespace weather {
     MicroBitPin P12 = uBit.io.P12;
     MicroBitPin P13 = uBit.io.P13;
 
