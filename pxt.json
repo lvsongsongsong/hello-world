@@ -1,0 +1,18 @@
+{
+    "name": "weatherbit",
+    "version": "0.0.10",
+    "description": "SparkFun weatherbit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "weatherbit.ts",
+        "weatherbit.cpp"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
