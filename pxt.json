@@ -1,7 +1,7 @@
 {
-    "name": "weatherbot",
+    "name": "Environment:bit",
     "version": "0.0.10",
-    "description": "SparkFun weatherbit",
+    "description": "ELECFREAKS Environment:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
