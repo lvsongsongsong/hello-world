@@ -1,6 +1,6 @@
-# weatherbit
+# bit
 
-TODO: To use this package, go to https://pxt.microbit.org, click ``Add package`` and search for **weatherbit**.
+TODO: To use this package, go to https://pxt.microbit.org, click ``Add package`` and search for https://github.com/lvsongsongsong/hello-world.
 
 ## Usage
 
