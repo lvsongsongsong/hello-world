@@ -1,4 +1,4 @@
-# microbit
+# microbit-pxt
 
 TODO: To use this package, go to https://pxt.microbit.org, click ``Add package`` and search for https://github.com/lvsongsongsong/hello-world.
 
